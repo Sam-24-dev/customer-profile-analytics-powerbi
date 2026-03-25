@@ -40,6 +40,7 @@ env/
 *.log
 *.tmp
 *.bak
+*.backup-*.pbix
 
 # Local scratch or generated-only folders
 tmp/
